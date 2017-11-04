@@ -12,3 +12,15 @@ Confirmations: 20
 
 RPC port: 37576
 Port: 37575
+
+create file grow.conf with following info (edit rpcuser & rpcpassword)
+
+listen=1
+server=1
+gen=1
+rpcuser=rpcuser
+rpcpassword=rpcpassword
+rpcconnect=127.0.0.1
+rpcport=37576
+rpcallowip=*
+addnode=45.76.9.68

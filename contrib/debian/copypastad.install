@@ -1,0 +1,2 @@
+debian/bin/growd usr/bin
+src/growd usr/lib/grow

@@ -1,0 +1,14 @@
+Ticker: GROW
+Supply: 200,000,000 GROW
+Algorithm: X11 PoW/PoS
+Last PoW block: 999,999
+PoW reward: 10 GROW
+Max Block Size: 4 MB
+Yearly interest: 10%
+Block time: 60 seconds
+Staking Minimum: 6 hours
+Staking Maximum: 6 days
+Confirmations: 20
+
+RPC port: 37576
+Port: 37575
